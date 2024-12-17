@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khyati</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **khyati7070@gmail.com**
 
