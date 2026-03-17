@@ -1,6 +1,10 @@
-# Hi there! 👾 I'm Khyati
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+Spring+Boot+Developer;Passionate+Learner;Problem+Solver)](https://git.io/typing-svg)
+# Hi! 👋 I'm Khyati
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20c997&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+Spring+Boot+Developer;Passionate+Learner;Problem+Solver)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -17,9 +21,9 @@ I’m a full‑stack developer passionate about building scalable web applicatio
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,bootstrap,nodejs,express,java,spring,mongodb,mysql,oracle,docker,jenkins,git,github,postman,stripe" />
-</p>
+</div>
 
 ---
 
@@ -61,7 +65,5 @@ I’m a full‑stack developer passionate about building scalable web applicatio
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khyati6982&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-  <br>
   🚀 *“Solving problems today, shaping solutions for tomorrow.”*
 </div>
