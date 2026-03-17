@@ -1,10 +1,6 @@
 <div align="center">
 
-# Hi! 👋 I'm Khyati
-
-</div>
-
-<div align="center">
+# Hi! 👋 I'm Khyati  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20c997&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+Spring+Boot+Developer;Passionate+Learner;Problem+Solver)](https://git.io/typing-svg)
 
@@ -65,5 +61,5 @@ I’m a full‑stack developer passionate about building scalable web applicatio
 ---
 
 <div align="center">
-  🚀 *“Solving problems today, shaping solutions for tomorrow.”*
+  🚀 *Solving problems today, shaping solutions for tomorrow.*
 </div>
