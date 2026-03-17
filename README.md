@@ -66,5 +66,5 @@ I’m a full‑stack developer passionate about building scalable web applicatio
 ---
 
 <div align="center">
-  *Solving problems today, shaping solutions for tomorrow.*
+  ***Solving problems today, shaping solutions for tomorrow.***
 </div>
