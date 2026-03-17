@@ -2,6 +2,10 @@
 
 # Hi! 👋 I'm Khyati
 
+</div>
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20c997&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+Spring+Boot+Developer;Passionate+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
@@ -55,12 +59,8 @@ I’m a full‑stack developer passionate about building scalable web applicatio
 
 ## 🌐 Connect With Me  
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khyati-v-179288202)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khyati-v-179288202) &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khyati7070@gmail.com)
-
-</div>
 
 ---
 
