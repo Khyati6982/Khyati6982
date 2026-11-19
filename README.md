@@ -10,19 +10,19 @@
 
 ## 🚀 About Me
 
-I’m a full‑stack developer passionate about building scalable web applications and solving real‑world problems with clean, efficient code. My journey spans across **MERN projects** and **Java Spring Boot applications**, and I thrive on learning new tools that make development faster and smarter.  
+I’m an MCA graduate and **Bangalore University Rank Holder** passionate about building scalable web applications and solving real‑world problems with clean, efficient code. My work spans across **Java (Spring Boot, PostgreSQL, Docker)** and **MERN stack** applications, with a focus on secure REST APIs, payment workflows, and responsive interfaces.  
 
-- 💡 Curious and driven to explore new tech  
-- 💪 Focused on writing maintainable, testable code  
-- 🤝 Collaborative and open to teamwork  
-- 🌟 Always ready to take on challenges  
+- 💡 Curious and driven to explore new technologies  
+- 💪 Focused on writing maintainable, production-ready code  
+- 🤝 Collaborative and open to engineering teams
+- 🌟 Always ready to take on technical challenges  
 
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,bootstrap,nodejs,express,java,spring,mongodb,mysql,oracle,docker,jenkins,git,github,postman,stripe" />
+  <img src="https://skillicons.dev/icons?i=react,redux,next,js,ts,html,css,tailwind,bootstrap,nodejs,express,java,spring,mongodb,mysql,postgres,docker,jenkins,git,github,postman,netlify,vercel" />
 </div>
 
 ---
@@ -31,32 +31,43 @@ I’m a full‑stack developer passionate about building scalable web applicatio
 
 <div align="center">
 
-### 🌟 [CyclePort](https://cycleport.netlify.app)  
-**Tech Stack:** MERN (MongoDB, Express, React, Node.js)  
-*A full‑stack e‑commerce platform for cycle purchases.*  
+### 🔥 [DineDrop](https://dinedrop-mm4v.onrender.com)  
+**Tech Stack:** Java • Spring Boot • Thymeleaf • PostgreSQL • Docker   
+*Online food ordering platform with 60+ REST endpoints, Stripe webhooks, and containerized deployment.*  
 
 ---
 
-### 🔥 [DineDrop](https://dinedrop-mm4v.onrender.com)  
-**Tech Stack:** Java • Spring Boot • Thymeleaf • MySQL  
-*A food ordering platform with secure backend and dynamic UI.*  
+### 🌟 [CyclePort](https://cycleport.netlify.app)  
+**Tech Stack:** MERN (MongoDB, Express.js, React, Redux, Node.js)  
+*Full stack retail e-commerce platform with role-based admin inventory controls, Cloudinary CDN, and Stripe webhooks.*  
+
+---
+
+### 🍴 [GourmetTrek](https://github.com/GourmetTrek)
+**Tech Stack:** MERN (MongoDB, Express.js, React, Context API, Node.js)
+*Culinary tour booking platform featuring search/filtering, JWT + RBAC security, review moderation, and Stripe checkout.*
 
 </div>
 
 ---
 
-## 🎓 Certifications & Achievements
+## 🎓 Education, Honors & Certifications
 
+- 🏆 **MCA - Christ Academy Institute for Advanced Studies** || **Bangalore University 3rd Rank Holder** (CGPA: 8.93)
+- 🏆 **BCA - Christ Academy Institute for Advanced Studies** || **Bangalore University 2nd Rank Holder** (CGPA: 9.61)
 - 📜 **Java Full Stack Masters Program** – SimpliLearn  
 - 🚀 **Full Stack Web Development Bootcamp (MERN)** – Codecademy  
-- 🌟 **Full Stack Development Course (MERN)** – Sparta  
+- 🌟 **Full Stack Development Course (MERN)** – Sparta Coding Club
 
 ---
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khyati-v-179288202) &nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khyati7070@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khyati-v-179288202) &nbsp; &nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khyati7070@gmail.com)
+
+</div>
 
 ---
 
